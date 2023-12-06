@@ -12,3 +12,6 @@
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
 ```
+- [x] Competed my task 1
+- [x] Competed my task 2
+- [ ] Task 3 is pending
